@@ -68,10 +68,15 @@ I built this interactive dashboard using Power BI to analyze mobile phone sales 
 - Data Modeling & Relationships
 
 ## Files Included:
-- `Mobile_Sales_Dashboard.pbix`
 - `Mobile Sales Dashboard.jpg`
 - `Mobile Sales MTD Report.jpg`
 - `Mobile Sales Same Period Last Year Report.jpg`
+
+- ## Data Analysis Report – Power BI Dashboard
+
+I created this comprehensive Data Analysis dashboard using Power BI to visualize and interpret key business metrics, trends, and insights from the dataset.
+
+![Dashboard Screenshot](Data%20Analysis%20Dashboard.jpg)
 
 
 ## Files Included:
@@ -79,3 +84,4 @@ I built this interactive dashboard using Power BI to analyze mobile phone sales 
 - `Sales Analysis Amazon Products.pbix`
 - `SuperStore Dashboard.pbix`
 - Mobile_Sales_Dashboard.pbix`
+- Data Analysis Report.pbix'
