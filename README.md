@@ -46,7 +46,36 @@ This dashboard provides insights into Superstore sales data, highlighting profit
 - Data Modeling & Relationships
 - Custom Visuals
 
+## Mobile Sales Dashboard – Power BI Dashboard
+
+I built this interactive dashboard using Power BI to analyze mobile phone sales across cities, time periods, and payment methods.
+
+![Dashboard Screenshot](Mobile%20Sales%20Dashboard.jpg)
+![MTD Report](Mobile%20Sales%20MTD%20Report.jpg)
+![Same Period Last Year Report](Mobile%20Sales%20Same%20Period%20Last%20Year%20Report.jpg)
+
+### Key Features:
+✅ Interactive visuals: maps, line & bar charts, pie charts  
+✅ Filters: Mobile Model, Brand, Payment Method, Time  
+✅ Month-to-Date vs Same Period Last Year comparison  
+✅ KPIs: Total Sales, Quantity, Transactions, Average Price  
+✅ Customer Ratings and Day-wise Sales Trends
+
+### Tools & Skills Used:
+- Power BI  
+- Power Query (Data Cleaning & Transformation)  
+- DAX Calculations  
+- Data Modeling & Relationships
+
+## Files Included:
+- `Mobile_Sales_Dashboard.pbix`
+- `Mobile Sales Dashboard.jpg`
+- `Mobile Sales MTD Report.jpg`
+- `Mobile Sales Same Period Last Year Report.jpg`
+
+
 ## Files Included:
 - `Covi-19 Pakistan Dashboard.pbix`
 - `Sales Analysis Amazon Products.pbix`
 - `SuperStore Dashboard.pbix`
+- Mobile_Sales_Dashboard.pbix`
