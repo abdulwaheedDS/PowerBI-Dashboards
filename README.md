@@ -76,7 +76,7 @@ I built this interactive dashboard using Power BI to analyze mobile phone sales 
 
 I created this comprehensive Data Analysis dashboard using Power BI to visualize and interpret key business metrics, trends, and insights from the dataset.
 
-![Dashboard Screenshot](Data%20Analysis%20Dashboard.jpg)
+![Dashboard Screenshot](Data%20Analysis%20Report.jpg)
 
 
 ## Files Included:
